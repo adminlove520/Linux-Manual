@@ -3,7 +3,7 @@
 
 ## 初衷(Original Intention)
 
-- 整理下自己所学。--但是比较随意，所以很多地方不够严谨，所以请带着批评的思维阅读。--
+- 整理下自己所学。--但是比较随意，所以很多地方不够严谨，所以请各位带着批评的思维阅读。--
 - 带动更多的人进入 Linux 世界，特别是做 Java 开发的人
 - Github 项目地址，欢迎 `Fork`、`Star`：<https://github.com/adminlove520/Linux-Manual.git>
 - 在线阅读地址：<https://adminlove520.github.io/Linux-Manual/>
